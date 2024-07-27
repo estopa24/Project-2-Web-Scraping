@@ -1,4 +1,4 @@
-# Project-2-Web-Scraping
+# Web-Scraping Project
 
 This project's purpose is to find 5 webpages and ask several questions of the data in each webpage that will be answered through the use of web scraping and data analysis. Data is scraped from these webpages (the webpages' html data is requested), and it is parsed by using Beautiful Soup. Specific tables that will be used to answer the questions are then extracted from the parsed data and read into python as pandas dataframes. These dataframes are then cleaned in order to make them more readable, organized and concise to more easily find the specific data needed to answer the questions. The questions are answered in markdown cells. Markdown cells are also used throughout the notebook code to explain each step of the code. The answers for two of the 4-5 questions asked are represented through the use of graphs that were created through both seaborn and matplotlib.
 
